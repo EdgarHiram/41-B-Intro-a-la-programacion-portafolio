@@ -4,8 +4,8 @@
 
 ### Indice
 
--[Pasos a seguir](https://www.example.com)
--[Consideraciones](https://www.example.com)
+- [Pasos a seguir](#pasos-a-seguir)
+- [Consideraciones](#consdieraciones)
 
 **Este texto debería ir en negritas**
 
@@ -32,3 +32,6 @@
 
 ### Consdieraciones
 
+1. First item
+2. Second item
+3. Third item
